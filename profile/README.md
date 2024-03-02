@@ -1,10 +1,8 @@
-# Install AuroraStack Core
+## Install AuroraStack Core
 ```
 pip3 install aurorastack-core
 ```
-
-# Run Server
-
+## Run Server
 ```
 # gRPC Server for sample api
 aurorastack run grpc-server myproject
