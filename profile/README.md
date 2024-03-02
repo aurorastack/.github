@@ -3,15 +3,12 @@
 pip3 install aurorastack-core
 ```
 
-# Run gRPC Server
+# Run Server
 
 ```
+# gRPC Server for sample api
 aurorastack run grpc-server myproject
-```
 
-
-# Run Rest Server
-
-```
+# Rest Server for sample api
 aurorastack run rest-server myproject
 ```
